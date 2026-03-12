@@ -1,4 +1,4 @@
-# SocioSentiment
+
 🧠 SocioSentiment – Social Issue Sentiment & Emotion Analyzer
 
 SocioSentiment is a Streamlit-powered web application designed to examine text related to social topics and determine both sentiment (Positive, Neutral, or Negative) and emotional tone (such as joy, anger, fear, sadness, or surprise). The system uses pre-trained Transformer models from Hugging Face that have been fine-tuned for sentiment and emotion classification tasks.
