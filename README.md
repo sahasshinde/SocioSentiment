@@ -56,3 +56,5 @@ Emoji Sentiment Detection – Interpret emojis as part of emotional context
 Multilingual Capability – Detect languages such as German, Portuguese, French, and Hinglish
 
 Automatic Translation – Convert detected non-English text to English before analysis
+
+🌐 SocioSentiment App Deployment This is a temporary deployed link: https://sociosentiment-96aj877jb73eltcfmuc7dv.streamlit.app/
